@@ -109,6 +109,10 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+<p align="center">
+  <img src="assets/avatars/avatar-2-silhouette.jpg" width="160" alt="リージェンシー時代の女性の切り絵" />
+</p>
+
 <p align="center"><i>“I declare after all there is no enjoyment like reading!” — Pride and Prejudice</i></p>
 
 <p align="center">
