@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200" role="img" aria-labelledby="title">
-  <title id="title">Emilia</title>
+  <title id="title">Emmilia</title>
   <desc>Jane Austen &amp; Regency Literature</desc>
   <defs>
     <linearGradient id="wave" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="854" y2="0">
@@ -20,7 +20,7 @@
   </path>
   <g opacity="1" filter="url(#textShadow)" font-family="Palatino, 'Palatino Linotype', 'Book Antiqua', Georgia, 'Times New Roman', Times, serif">
     <animate attributeName="opacity" values="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.22 0.61 0.36 1" dur="1.6s" fill="freeze"/>
-    <text x="427" y="76" text-anchor="middle" dominant-baseline="middle" fill="#fdf8ef" font-size="70" font-weight="500" letter-spacing="2">Emilia</text>
+    <text x="427" y="76" text-anchor="middle" dominant-baseline="middle" fill="#fdf8ef" font-size="70" font-weight="500" letter-spacing="2">Emmilia</text>
     <text x="427" y="118" text-anchor="middle" dominant-baseline="middle" fill="#fdf8ef" font-size="20" font-weight="400" letter-spacing="0.5">Jane Austen &amp; Regency Literature</text>
   </g>
 </svg>
