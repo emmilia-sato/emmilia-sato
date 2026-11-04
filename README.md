@@ -1,6 +1,6 @@
 <!-- 波打つ見出し（動きます） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2f4a,50:7a5c8a,100:c9a96e&height=200&section=header&text=Emilia&fontSize=70&fontColor=fdf8ef&fontAlign=50&fontAlignY=38&desc=Jane%20Austen%20%26%20Regency%20Literature&descAlign=50&descAlignY=60&animation=fadeIn" alt="Emilia" />
+  <img src="assets/header.svg" alt="Emilia" />
 </p>
 
 <!-- 一文字ずつ打たれていく紹介文（動きます） -->
@@ -112,5 +112,5 @@
 <p align="center"><i>“I declare after all there is no enjoyment like reading!” — Pride and Prejudice</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a96e,50:7a5c8a,100:3b2f4a&height=120&section=footer" alt="" />
+  <img src="assets/footer.svg" alt="" />
 </p>
