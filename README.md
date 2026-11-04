@@ -1,6 +1,6 @@
 <!-- 波打つ見出し（動きます） -->
 <p align="center">
-  <img src="assets/header.svg" alt="Emilia" />
+  <img src="assets/header.svg" alt="Emmilia" />
 </p>
 
 <!-- 一文字ずつ打たれていく紹介文（動きます） -->
